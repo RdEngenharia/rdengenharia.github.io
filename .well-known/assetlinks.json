@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rdengenharia.orcamentosolar.v4",
+    "sha256_cert_fingerprints": ["CF:D3:EC:54:40:B0:08:87:5B:84:CF:B7:16:B2:5A:AF:81:A0:DE:28:52:92:B4:AC:68:BF:6A:77:48:B4:9C:7E"]
+  }
+}]
